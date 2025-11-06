@@ -63,7 +63,6 @@ Color_Bloom_Composite_pack/
 3. See `Color_Bloom_Composite_Library/composite_example.blend` for a ready‑to‑try setup.
 
 ### Key Parameters
-> Socket names/order in UI may differ slightly by version; treat these as guides.
 
 - **Color Bloom**  
   - **Image** — Source image  
