@@ -66,7 +66,6 @@ Color_Bloom_Composite_pack/
 3. `Color_Bloom_Composite_Library/composite_example.blend` にサンプルセットアップを同梱。
 
 ### 主なパラメータ
-> ※ 入力ソケット名は環境によりUI表示順が異なる場合があります。以下は機能の目安です。
 
 - **Color Bloom**  
   - **Image**：元画像入力  
