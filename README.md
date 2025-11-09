@@ -61,7 +61,7 @@ Color_Bloom_Composite_pack/
 
 1. `Compositor` で **Use Nodes** をON。結果確認用に `Viewer` ノードを接続。  
 2. Asset Browser から必要なアセットを追加してチェイン（推奨順）：  
-   `Exposure（任意） → Color Bloom → Vignette → Overlay_Color_Grading → (Brightness/Contrast) → Composite`  
+   `Exposure（任意） → Color Bloom → Vignette  → (Brightness/Contrast) → Composite`  
    ※ 静止画は **Image**、動画は **Movie Clip** ノードで読み込み、チェインの先頭へ接続します。  
 3. `Color_Bloom_Composite_Library/composite_example.blend` にサンプルセットアップを同梱。
 
