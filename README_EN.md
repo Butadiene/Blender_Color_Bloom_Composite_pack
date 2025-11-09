@@ -58,7 +58,7 @@ Color_Bloom_Composite_pack/
 
 1. In the **Compositor**, enable **Use Nodes** and connect a **Viewer** node.  
 2. Chain assets in this order (recommended):  
-   `Exposure (opt.) → Color Bloom → Vignette → Overlay_Color_Grading → (Brightness/Contrast) → Composite`  
+   `Exposure (opt.) → Color Bloom → Vignette → (Brightness/Contrast) → Composite`  
    For inputs, use an **Image** node (still) or a **Movie Clip** node (video) and connect it to the chain head.  
 3. See `Color_Bloom_Composite_Library/composite_example.blend` for a ready‑to‑try setup.
 
